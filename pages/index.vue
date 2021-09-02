@@ -23,7 +23,7 @@
         />
       </div>
       <base-button name="メニューの一覧" link="/menu" />
-      <base-heading>MdN Cafeのタイトルを変更してみるの巻</base-heading>
+      <base-heading>Nuxt！！！！！！！</base-heading>
       <div class="mb-20">
         <layout-information-list
           v-for="(item, index) in infoItems"
